@@ -1,15 +1,12 @@
 
+### Laravel Task
 
+    Setup
 
-Laravel Task
--------------------------------------------------------
-
-Setup
-
-  cp .env.example .env
-  composer install
-  php artisan key:generate
-  php artisan serve
+- **cp .env.example .env**
+- **composer install**
+- **php artisan key:generate**
+- **php artisan serve**
 
 
 
